@@ -1,0 +1,13 @@
+{
+  "patient_reference_id": "TCGA-LGG-DEMO-02",
+  "sample_package_id": "PATIENT-02",
+  "dataset_provenance": {
+    "genomics": "TCGA Lower-Grade Glioma Firehose RSEM (TCGA.CS.5395)",
+    "neuroimaging": "Held-out cranial brain MRI test suite (meningioma)",
+    "pairing_notice": "Demonstration Paired Package (Discordant investigation sample: meningioma cranial mass + LGG transcriptome)"
+  },
+  "mri_filename": "PATIENT-02_cranial_mri.jpg",
+  "genomic_filename": "PATIENT-02_genomic_expression.csv",
+  "expected_gene_count": 20086,
+  "research_disclaimer": "Research prototype demonstration dataset only \u2014 not verified for primary clinical decision making."
+}

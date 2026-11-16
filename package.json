@@ -1,0 +1,10 @@
+{
+  "name": "geneexpressai-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix next-frontend run dev",
+    "build": "npm --prefix next-frontend run build",
+    "start": "npm --prefix next-frontend run start"
+  }
+}
